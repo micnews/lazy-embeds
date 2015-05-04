@@ -1,0 +1,24 @@
+{
+  "name": "lazy-embeds",
+  "version": "0.1.0",
+  "description": "Load embeds/iframes lazily, only when they're in viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/micnews/lazy-embeds.git"
+  },
+  "author": "Mic Network, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/lazy-embeds/issues"
+  },
+  "homepage": "https://github.com/micnews/lazy-embeds",
+  "dependencies": {
+    "element-class": "^0.2.0",
+    "jsdom": "^3.1.2",
+    "tape": "^4.0.0"
+  }
+}
