@@ -2,6 +2,8 @@
 
 Load embeds/iframes lazily, only when they're in viewport.
 
+[![Build Status](https://travis-ci.org/micnews/lazy-embeds.svg?branch=master)](https://travis-ci.org/micnews/lazy-embeds)
+
 ## USAGE
 
 Setup:
