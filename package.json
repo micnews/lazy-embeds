@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/micnews/lazy-embeds",
   "dependencies": {
-    "element-class": "^0.2.0",
+    "element-class": "^0.2.0"
+  },
+  "devDependencies": {
     "jsdom": "^3.1.2",
     "tape": "^4.0.0"
   }
